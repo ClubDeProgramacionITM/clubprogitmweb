@@ -3,7 +3,7 @@ home: true
 heroImage: /hero.png
 
 actionText: Más información →
-actionLink: /nosotros
+actionLink: nosotros/
 
 footer: ITM | Copyright © 2018 Club de programación
 ---

@@ -20,7 +20,7 @@ El lugar está por definir. Interesados favor de contestar la encuesta adjunta a
 <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeybEJpZroXkWOTHlW5MoDYnso0LIxVdn9S6OdBucsNqTROxw/viewform?usp=fb_send_fb" rel="noopener noreferrer">Haz click para ir a la encuesta</a></li>
 
 ::: warning Nota
-Solamente se inpartirá un curso. Si existe mucha demanda en algún otro, existirá la posiblidad de dar curso con diferente fecha. 
+Solamente se inpartirá un curso. Si existe mucha demanda en algún otro, existirá la posiblidad de abrir otro curso con diferente fecha. 
 :::
 
 ### Ejemplos de los lenguajes sugeridos
