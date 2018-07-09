@@ -1,6 +1,6 @@
 module.exports = {
    title: 'Club de programación',
-   port: 3000,
+   base: 'clubprogitmweb',
    description: 'Siempre aprendiendo',
    themeConfig: {
       nav: [{
