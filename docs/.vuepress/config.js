@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Club de programación',
-  // base: '/clubprogitmweb',
+  base: '/clubprogitmweb',
   serviceWorker: true,
   head: [
     ['link', {
