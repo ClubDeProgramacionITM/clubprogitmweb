@@ -3,7 +3,7 @@
 ## Jose Geovany Chan Cuevas
 **Correo:** jogeochanc@gmail.com 
 
-![An image](/clubprogitmweb/geo-op.jpg)
+<img :src="$withBase('/geo-op.jpg')" alt="foo">
 
 ## Juan de Dios Canché Cen
 **Correo:** juan1910@live.com.mx

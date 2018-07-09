@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Club de programación',
-  base: '/clubprogitmweb',
+  base: '/clubprogitmweb/',
+  ga: "UA-122068895-1",
   head: [
     ['link', {
       rel: 'icon',
